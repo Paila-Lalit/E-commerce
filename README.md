@@ -39,7 +39,7 @@ After importing all the files, I created some extra columns while referencing th
 
 ## Weekday Vs Weekend Payment Statistics:
 
-The Analysis of Payment Will give you an Idea of understanding of buying behaviour of Customer. Here Majority of sales occurs on Weekdays which is 77% and Weekends accounts for the remaining 22% . here overall piechart shows that weekdays are the most important time to focus on sales.
+The Analysis of Payment Will give you an Idea of understanding of buying behaviour of Customer. Here Majority of sales occurs on Weekdays which is 77% and Weekends accounts for the remaining 22% . here overall donut chart shows that weekdays are the most important time to focus on sales.
 
 ## Average Shipping days for Petshop Category :
 
@@ -47,7 +47,7 @@ The average shipping days Time for Petshop Category takes 11 to 13 days for Ship
 
 ## Review scores and Payment Type:
 
-Here Donut Chart shows the distribution of orders by payment types. the most Used Payment type is Credit card 74% of orders, debit card is 2nd Payment type and boleto , vouchers are the least used Payment types This analysis helps in understanding How customer Satisfaction and their payment preferences use this information to identify satisfied customers and encourage them to make repeat purchases. 
+Here the visual shows the distribution of orders by payment types. the most Used Payment type is Credit card 74% of orders, debit card is 2nd Payment type and boleto , vouchers are the least used Payment types This analysis helps in understanding How customer Satisfaction and their payment preferences use this information to identify satisfied customers and encourage them to make repeat purchases. 
 
 ## Average Price and Average payment Value of Sao Paulo City:
 
@@ -62,3 +62,4 @@ This Analysis suggests that customers who receive their products late are more l
 
 Sales have been increasing steadily each year bcoz of the global economy is growing, *more people using digital payments, 
 
+![Screenshot 2024-06-03 181649](https://github.com/Paila-Lalit/E-commerce/assets/160754393/595959f4-f761-46a0-a436-1c4dc30ffada)
