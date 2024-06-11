@@ -43,7 +43,7 @@ The Analysis of Payment Will give you an Idea of understanding of buying behavio
 
 ## Average Shipping days for Petshop Category :
 
-The average shipping days Time for Petshop Category takes 11 to 13 days for Shipping, these chart helps to identify areas where they can improve their delivery time and maintain customer satisfaction and meet the expectations of their customers.
+The average shipping days Time for Petshop Category takes 11 days for Shipping, these chart helps to identify areas where they can improve their delivery time and maintain customer satisfaction and meet the expectations of their customers.
 
 ## Review scores and Payment Type:
 
